@@ -1,0 +1,65 @@
+nav {
+  font-style: italic;
+}
+
+.nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 20px;
+  font-size: 29px;
+}
+
+.imglogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.restaurant-jpg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  color: darkred;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+p {
+  font-style: italic;
+  color: darkred;
+  font-size: 30px;
+  background-color: orange;
+}
+
+body {
+  background-color: #ff7e05;
+}
+
+a {
+  color: darkred;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+li {
+  font-size: 20px;
+  color: darkred;
+}
